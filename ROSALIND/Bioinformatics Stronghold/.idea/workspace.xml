@@ -11,29 +11,47 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="4-Rabbits_and_Recurrence_Relations.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/4-Rabbits_and_Recurrence_Relations.py">
+      <file leaf-file-name="Frq_use.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Frq_use.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="292">
+              <caret line="16" column="13" lean-forward="true" selection-start-line="16" selection-start-column="13" selection-end-line="16" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="10-Consensus_and_Profile_1.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/10-Consensus_and_Profile_1.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-77">
+              <caret line="12" column="21" lean-forward="true" selection-start-line="12" selection-start-column="21" selection-end-line="12" selection-end-column="21" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="10-Consensus_and_Profile_2.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/10-Consensus_and_Profile_2.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-868">
+              <caret line="1" column="23" lean-forward="true" selection-start-line="1" selection-start-column="23" selection-end-line="1" selection-end-column="23" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="11-Mortal_Fibonacci_Rabbits.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/11-Mortal_Fibonacci_Rabbits.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="184">
+              <caret line="8" column="10" lean-forward="true" selection-start-line="8" selection-start-column="10" selection-end-line="8" selection-end-column="10" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="test.txt" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/test.txt">
           <provider selected="true" editor-type-id="text-editor">
             <state>
-              <caret selection-end-line="5" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="5-Computing_GC_Content.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/5-Computing_GC_Content.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="92">
-              <caret line="4" column="44" lean-forward="true" selection-start-line="4" selection-start-column="44" selection-end-line="4" selection-end-column="44" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="5-Computing_GC_Content_Bio.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/5-Computing_GC_Content_Bio.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="368">
-              <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
+              <caret column="3" selection-start-column="3" selection-end-column="3" />
             </state>
           </provider>
         </entry>
@@ -41,8 +59,8 @@
       <file leaf-file-name="solution.txt" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/solution.txt">
           <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret lean-forward="true" />
+            <state relative-caret-position="92">
+              <caret line="4" column="1869" lean-forward="true" selection-start-line="4" selection-start-column="1869" selection-end-line="4" selection-end-column="1869" />
             </state>
           </provider>
         </entry>
@@ -53,6 +71,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Python Script" />
+        <option value="Rosalind" />
       </list>
     </option>
   </component>
@@ -67,6 +86,19 @@
         <option value="$PROJECT_DIR$/5-Computing_GC_Content(Biopython).py" />
         <option value="$PROJECT_DIR$/5-Computing_GC_Content_Bio.py" />
         <option value="$PROJECT_DIR$/5-Computing_GC_Content.py" />
+        <option value="$PROJECT_DIR$/6-Counting_Point_Mutations.py" />
+        <option value="$PROJECT_DIR$/7-Mendel's_First_Law.py" />
+        <option value="$PROJECT_DIR$/8-Translating_RNA_into_Protein_Bio.py" />
+        <option value="$PROJECT_DIR$/codon_table.txt" />
+        <option value="$PROJECT_DIR$/8-Translating_RNA_into_Protein.py" />
+        <option value="$PROJECT_DIR$/9-Finding_a_Motif_in_DNA.py" />
+        <option value="$PROJECT_DIR$/solution.txt" />
+        <option value="$PROJECT_DIR$/10-Consensus_and_Profile.py" />
+        <option value="$PROJECT_DIR$/10-Consensus_and_Profile_2.py" />
+        <option value="$PROJECT_DIR$/10-Consensus_and_Profile_1.py" />
+        <option value="$PROJECT_DIR$/Frq_use.py" />
+        <option value="$PROJECT_DIR$/test.txt" />
+        <option value="$PROJECT_DIR$/11-Mortal_Fibonacci_Rabbits.py" />
       </list>
     </option>
   </component>
@@ -79,7 +111,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -91,6 +122,7 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -124,18 +156,17 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1920" height="1080" extended-state="0" />
-    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.12427594" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.18694049" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
-      <window_info anchor="bottom" id="Run" order="2" />
       <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Python Console" order="7" weight="0.32863188" />
+      <window_info anchor="bottom" id="Run" order="2" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="7" visible="true" weight="0.31445906" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Terminal" order="7" visible="true" weight="0.21840243" />
       <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -150,10 +181,52 @@
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
-      <option name="time" value="5" />
+      <option name="time" value="9" />
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/5-Computing_GC_Content_Bio.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="5" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/6-Counting_Point_Mutations.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/7-Mendel's_First_Law.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="138">
+          <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/4-Rabbits_and_Recurrence_Relations.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/5-Computing_GC_Content_Bio.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="368">
+          <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/5-Computing_GC_Content.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="276">
+          <caret line="12" column="55" lean-forward="true" selection-start-line="12" selection-start-column="55" selection-end-line="12" selection-end-column="55" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/2-Transcribing_DNA_into_RNA.py">
       <provider selected="true" editor-type-id="text-editor">
         <state>
@@ -182,6 +255,34 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/rosalind_fib.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="1" selection-start-column="1" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/7-Mendel's_First_Law.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="5" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/8-Translating_RNA_into_Protein_Bio.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="253">
+          <caret line="11" column="38" lean-forward="true" selection-start-line="11" selection-start-column="38" selection-end-line="11" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/codon_table.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="15" column="39" selection-start-line="15" selection-start-column="39" selection-end-line="15" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/1-Counting_DNA_Nucleotides.py">
       <provider selected="true" editor-type-id="text-editor">
         <state>
@@ -189,10 +290,31 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/2-Transcribing_DNA_into_RNA.py">
+    <entry file="file://$PROJECT_DIR$/8-Translating_RNA_into_Protein.py">
       <provider selected="true" editor-type-id="text-editor">
         <state>
-          <caret selection-end-line="4" selection-end-column="25" />
+          <caret selection-end-line="3" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/6-Counting_Point_Mutations.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/5-Computing_GC_Content.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="146">
+          <caret line="12" column="55" selection-start-line="12" selection-start-column="55" selection-end-line="12" selection-end-column="55" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/4-Rabbits_and_Recurrence_Relations.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="46">
+          <caret line="2" column="33" lean-forward="true" selection-start-line="2" selection-start-column="33" selection-end-line="2" selection-end-column="33" />
         </state>
       </provider>
     </entry>
@@ -203,38 +325,66 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/rosalind_fib.txt">
+    <entry file="file://$PROJECT_DIR$/2-Transcribing_DNA_into_RNA.py">
       <provider selected="true" editor-type-id="text-editor">
         <state>
-          <caret column="1" selection-start-column="1" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/4-Rabbits_and_Recurrence_Relations.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret selection-end-line="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/solution.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret lean-forward="true" />
+          <caret selection-end-line="4" selection-end-column="25" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/5-Computing_GC_Content_Bio.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="368">
-          <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
+        <state relative-caret-position="226">
+          <caret line="17" selection-start-line="17" selection-end-line="20" selection-end-column="56" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/5-Computing_GC_Content.py">
+    <entry file="file://$PROJECT_DIR$/9-Finding_a_Motif_in_DNA.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="69">
+          <caret line="3" column="34" selection-start-line="3" selection-start-column="21" selection-end-line="3" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/solution.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="92">
-          <caret line="4" column="44" lean-forward="true" selection-start-line="4" selection-start-column="44" selection-end-line="4" selection-end-column="44" />
+          <caret line="4" column="1869" lean-forward="true" selection-start-line="4" selection-start-column="1869" selection-end-line="4" selection-end-column="1869" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/10-Consensus_and_Profile_1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-77">
+          <caret line="12" column="21" lean-forward="true" selection-start-line="12" selection-start-column="21" selection-end-line="12" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Frq_use.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="292">
+          <caret line="16" column="13" lean-forward="true" selection-start-line="16" selection-start-column="13" selection-end-line="16" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/10-Consensus_and_Profile_2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-868">
+          <caret line="1" column="23" lean-forward="true" selection-start-line="1" selection-start-column="23" selection-end-line="1" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="3" selection-start-column="3" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/11-Mortal_Fibonacci_Rabbits.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="184">
+          <caret line="8" column="10" lean-forward="true" selection-start-line="8" selection-start-column="10" selection-end-line="8" selection-end-column="10" />
         </state>
       </provider>
     </entry>
