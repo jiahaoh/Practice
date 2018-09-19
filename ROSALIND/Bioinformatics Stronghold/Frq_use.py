@@ -10,10 +10,6 @@ class Frq_use(object):
     def nAk(self, n, k):
         return int(self.f(n) / self.f(n - k))
 
-    def print_s(self):
-        p = print(, file=self.solution)
-        return p
 
-d = Frq_use()
-print(d.nAk(6,2))
-print(d.nCk(6,2))
+
+fu = Frq_use()
