@@ -1,0 +1,96 @@
+[2019-04-09 13:57:34,494] multiqc                                            [DEBUG  ]  No MultiQC config found: /Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/site-packages/multiqc_config.yaml
+[2019-04-09 13:57:34,494] multiqc                                            [DEBUG  ]  No MultiQC config found: /Users/jiahaoh/.multiqc_config.yaml
+[2019-04-09 13:57:34,494] multiqc                                            [DEBUG  ]  No MultiQC config found: multiqc_config.yaml
+[2019-04-09 13:57:34,494] multiqc                                            [DEBUG  ]  Command used: /Library/Frameworks/Python.framework/Versions/3.6/bin/multiqc ./
+[2019-04-09 13:57:36,533] multiqc                                            [DEBUG  ]  Latest MultiQC version is v1.7
+[2019-04-09 13:57:36,533] multiqc                                            [INFO   ]  This is MultiQC v1.7
+[2019-04-09 13:57:36,533] multiqc                                            [DEBUG  ]  Command     : /Library/Frameworks/Python.framework/Versions/3.6/bin/multiqc ./
+[2019-04-09 13:57:36,533] multiqc                                            [DEBUG  ]  Working dir : /Users/jiahaoh/Desktop/OA/fastQC
+[2019-04-09 13:57:36,533] multiqc                                            [INFO   ]  Template    : default
+[2019-04-09 13:57:36,533] multiqc                                            [INFO   ]  Searching './'
+[2019-04-09 13:57:36,534] multiqc                                            [DEBUG  ]  Analysing modules: custom_content, conpair, peddy, methylQA, phantompeakqualtools, qualimap, preseq, quast, qorts, rna_seqc, rsem, rseqc, busco, goleft_indexcov, disambiguate, supernova, deeptools, sargasso, verifybamid, mirtrace, happy, homer, macs2, theta2, snpeff, gatk, htseq, bcftools, featureCounts, dedup, damageprofiler, picard, prokka, samblaster, samtools, bamtools, jellyfish, vcftools, longranger, stacks, bbmap, bismark, biscuit, hicexplorer, hicup, hicpro, salmon, kallisto, slamdunk, star, hisat2, tophat, bowtie2, bowtie1, kat, leehom, adapterRemoval, clipandmerge, cutadapt, flexbar, trimmomatic, skewer, sortmerna, biobloomtools, fastq_screen, afterqc, fastp, fastqc, minionqc, clusterflow, bcl2fastq, interop, flash
+[2019-04-09 13:57:36,534] multiqc                                            [DEBUG  ]  Using temporary directory for creating report: /var/folders/hw/llgv13w951sdyy34t4r8tw440000gn/T/tmp8rkkcssa
+[2019-04-09 13:57:36,729] multiqc                                            [DEBUG  ]  Ignoring file as matched an ignore pattern: .DS_Store
+[2019-04-09 13:57:36,740] multiqc                                            [DEBUG  ]  Ignoring file as matched an ignore pattern: aln2_fastqc.html
+[2019-04-09 13:57:36,740] multiqc                                            [DEBUG  ]  Ignoring file as matched an ignore pattern: aln1_fastqc.html
+[2019-04-09 13:57:37,548] multiqc                                            [DEBUG  ]  No samples found: custom_content
+[2019-04-09 13:57:37,553] multiqc                                            [DEBUG  ]  No samples found: conpair
+[2019-04-09 13:57:37,559] multiqc                                            [DEBUG  ]  No samples found: peddy
+[2019-04-09 13:57:37,565] multiqc                                            [DEBUG  ]  No samples found: methylQA
+[2019-04-09 13:57:37,571] multiqc                                            [DEBUG  ]  No samples found: phantompeakqualtools
+[2019-04-09 13:57:37,584] multiqc                                            [DEBUG  ]  No samples found: qualimap
+[2019-04-09 13:57:37,595] multiqc                                            [DEBUG  ]  No samples found: preseq
+[2019-04-09 13:57:37,604] multiqc                                            [DEBUG  ]  No samples found: quast
+[2019-04-09 13:57:37,610] multiqc                                            [DEBUG  ]  No samples found: qorts
+[2019-04-09 13:57:37,616] multiqc                                            [DEBUG  ]  No samples found: rna_seqc
+[2019-04-09 13:57:37,621] multiqc                                            [DEBUG  ]  No samples found: rsem
+[2019-04-09 13:57:37,636] multiqc                                            [DEBUG  ]  No samples found: rseqc
+[2019-04-09 13:57:37,641] multiqc                                            [DEBUG  ]  No samples found: busco
+[2019-04-09 13:57:37,648] multiqc                                            [DEBUG  ]  No samples found: goleft_indexcov
+[2019-04-09 13:57:37,653] multiqc                                            [DEBUG  ]  No samples found: disambiguate
+[2019-04-09 13:57:37,658] multiqc                                            [DEBUG  ]  No samples found: supernova
+[2019-04-09 13:57:37,673] multiqc                                            [DEBUG  ]  No samples found: deeptools
+[2019-04-09 13:57:37,678] multiqc                                            [DEBUG  ]  No samples found: sargasso
+[2019-04-09 13:57:37,683] multiqc                                            [DEBUG  ]  No samples found: verifybamid
+[2019-04-09 13:57:37,688] multiqc                                            [DEBUG  ]  No samples found: mirtrace
+[2019-04-09 13:57:37,693] multiqc                                            [DEBUG  ]  No samples found: happy
+[2019-04-09 13:57:37,702] multiqc                                            [DEBUG  ]  No samples found: homer
+[2019-04-09 13:57:37,707] multiqc                                            [DEBUG  ]  No samples found: macs2
+[2019-04-09 13:57:37,712] multiqc                                            [DEBUG  ]  No samples found: theta2
+[2019-04-09 13:57:37,717] multiqc                                            [DEBUG  ]  No samples found: snpeff
+[2019-04-09 13:57:37,728] multiqc                                            [DEBUG  ]  No samples found: gatk
+[2019-04-09 13:57:37,737] multiqc                                            [DEBUG  ]  No samples found: htseq
+[2019-04-09 13:57:37,744] multiqc                                            [DEBUG  ]  No samples found: bcftools
+[2019-04-09 13:57:37,751] multiqc                                            [DEBUG  ]  No samples found: featureCounts
+[2019-04-09 13:57:37,757] multiqc                                            [DEBUG  ]  No samples found: dedup
+[2019-04-09 13:57:37,761] multiqc                                            [DEBUG  ]  No samples found: damageprofiler
+[2019-04-09 13:57:37,776] multiqc                                            [DEBUG  ]  No samples found: picard
+[2019-04-09 13:57:37,781] multiqc                                            [DEBUG  ]  No samples found: prokka
+[2019-04-09 13:57:37,786] multiqc                                            [DEBUG  ]  No samples found: samblaster
+[2019-04-09 13:57:37,801] multiqc                                            [DEBUG  ]  No samples found: samtools
+[2019-04-09 13:57:37,827] multiqc                                            [DEBUG  ]  No samples found: bamtools
+[2019-04-09 13:57:37,874] multiqc                                            [DEBUG  ]  No samples found: jellyfish
+[2019-04-09 13:57:37,920] multiqc                                            [DEBUG  ]  No samples found: vcftools
+[2019-04-09 13:57:37,949] multiqc                                            [DEBUG  ]  No samples found: longranger
+[2019-04-09 13:57:38,015] multiqc                                            [DEBUG  ]  No samples found: stacks
+[2019-04-09 13:57:38,037] multiqc                                            [DEBUG  ]  No samples found: bbmap
+[2019-04-09 13:57:38,044] multiqc                                            [DEBUG  ]  No samples found: bismark
+[2019-04-09 13:57:38,056] multiqc                                            [DEBUG  ]  No samples found: biscuit
+[2019-04-09 13:57:38,091] multiqc                                            [DEBUG  ]  No samples found: hicexplorer
+[2019-04-09 13:57:38,100] multiqc                                            [DEBUG  ]  No samples found: hicup
+[2019-04-09 13:57:38,118] multiqc                                            [DEBUG  ]  No samples found: hicpro
+[2019-04-09 13:57:38,141] multiqc                                            [DEBUG  ]  No samples found: salmon
+[2019-04-09 13:57:38,164] multiqc                                            [DEBUG  ]  No samples found: kallisto
+[2019-04-09 13:57:38,229] multiqc                                            [DEBUG  ]  No samples found: slamdunk
+[2019-04-09 13:57:38,246] multiqc                                            [DEBUG  ]  No samples found: star
+[2019-04-09 13:57:38,260] multiqc                                            [DEBUG  ]  No samples found: hisat2
+[2019-04-09 13:57:38,283] multiqc                                            [DEBUG  ]  No samples found: tophat
+[2019-04-09 13:57:38,330] multiqc                                            [DEBUG  ]  No samples found: bowtie2
+[2019-04-09 13:57:38,350] multiqc                                            [DEBUG  ]  No samples found: bowtie1
+[2019-04-09 13:57:38,367] multiqc                                            [DEBUG  ]  No samples found: kat
+[2019-04-09 13:57:38,382] multiqc                                            [DEBUG  ]  No samples found: leehom
+[2019-04-09 13:57:38,400] multiqc                                            [DEBUG  ]  No samples found: adapterRemoval
+[2019-04-09 13:57:38,417] multiqc                                            [DEBUG  ]  No samples found: clipandmerge
+[2019-04-09 13:57:38,437] multiqc                                            [DEBUG  ]  No samples found: cutadapt
+[2019-04-09 13:57:38,444] multiqc                                            [DEBUG  ]  No samples found: flexbar
+[2019-04-09 13:57:38,449] multiqc                                            [DEBUG  ]  No samples found: trimmomatic
+[2019-04-09 13:57:38,454] multiqc                                            [DEBUG  ]  No samples found: skewer
+[2019-04-09 13:57:38,459] multiqc                                            [DEBUG  ]  No samples found: sortmerna
+[2019-04-09 13:57:38,465] multiqc                                            [DEBUG  ]  No samples found: biobloomtools
+[2019-04-09 13:57:38,495] multiqc                                            [DEBUG  ]  No samples found: fastq_screen
+[2019-04-09 13:57:38,516] multiqc                                            [DEBUG  ]  No samples found: afterqc
+[2019-04-09 13:57:38,551] multiqc                                            [DEBUG  ]  No samples found: fastp
+[2019-04-09 13:57:38,614] multiqc.modules.fastqc.fastqc                      [INFO   ]  Found 2 reports
+[2019-04-09 13:57:38,683] multiqc                                            [DEBUG  ]  No samples found: minionqc
+[2019-04-09 13:57:38,687] multiqc                                            [DEBUG  ]  No samples found: clusterflow
+[2019-04-09 13:57:38,697] multiqc                                            [DEBUG  ]  No samples found: bcl2fastq
+[2019-04-09 13:57:38,703] multiqc                                            [DEBUG  ]  No samples found: interop
+[2019-04-09 13:57:38,710] multiqc                                            [DEBUG  ]  No samples found: flash
+[2019-04-09 13:57:38,715] multiqc                                            [INFO   ]  Compressing plot data
+[2019-04-09 13:57:38,750] multiqc                                            [INFO   ]  Report      : multiqc_report.html
+[2019-04-09 13:57:38,750] multiqc                                            [INFO   ]  Data        : multiqc_data
+[2019-04-09 13:57:38,751] multiqc                                            [DEBUG  ]  Moving data file from '/var/folders/hw/llgv13w951sdyy34t4r8tw440000gn/T/tmp8rkkcssa/multiqc_data/multiqc_fastqc.txt' to '/Users/jiahaoh/Desktop/OA/fastQC/multiqc_data'
+[2019-04-09 13:57:38,751] multiqc                                            [DEBUG  ]  Moving data file from '/var/folders/hw/llgv13w951sdyy34t4r8tw440000gn/T/tmp8rkkcssa/multiqc_data/multiqc_general_stats.txt' to '/Users/jiahaoh/Desktop/OA/fastQC/multiqc_data'
+[2019-04-09 13:57:38,752] multiqc                                            [DEBUG  ]  Moving data file from '/var/folders/hw/llgv13w951sdyy34t4r8tw440000gn/T/tmp8rkkcssa/multiqc_data/multiqc_sources.txt' to '/Users/jiahaoh/Desktop/OA/fastQC/multiqc_data'
+[2019-04-09 13:57:38,752] multiqc                                            [DEBUG  ]  Moving data file from '/var/folders/hw/llgv13w951sdyy34t4r8tw440000gn/T/tmp8rkkcssa/multiqc_data/multiqc_data.json' to '/Users/jiahaoh/Desktop/OA/fastQC/multiqc_data'
+[2019-04-09 13:57:38,911] multiqc                                            [INFO   ]  MultiQC complete

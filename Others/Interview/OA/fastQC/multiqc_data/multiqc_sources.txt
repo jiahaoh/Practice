@@ -1,0 +1,3 @@
+Module	Section	Sample Name	Source
+FastQC	all_sections	aln2	/Users/jiahaoh/Desktop/OA/fastQC/aln2_fastqc.zip
+FastQC	all_sections	aln1	/Users/jiahaoh/Desktop/OA/fastQC/aln1_fastqc.zip

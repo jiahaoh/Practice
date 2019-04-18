@@ -9,6 +9,7 @@
 * [竹子-博客](http://www.cnblogs.com/peida/tag/%E6%AF%8F%E6%97%A5%E4%B8%80linux%E5%91%BD%E4%BB%A4/)
 * [Seqtk](https://github.com/lh3/seqtk)
 * [Bioawk](https://github.com/lh3/bioawk)
+* [生信技能树 BiliBili](https://www.bilibili.com/video/av28813815/?p=1)
 
 
 ## awk
@@ -132,10 +133,6 @@ tar -jtvf tar_name.tar.bz2
 <br>
 
 ## Format Conversion related
-Convert bam to fastq
-```bash
-samtools view file.bam | awk 'BEGIN {FS="\t"} {print "@" $1 "\n" $10 "\n+\n" $11}' > file.fq
-```
 
 Convert fastq to fasta
 ```bash

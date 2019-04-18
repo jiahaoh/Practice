@@ -1,0 +1,53 @@
+BiocInstaller::biocLite('Rsamtools')
+
+library(Rsamtools)
+#test_bam_file <- system.file("extdata", "ex1.bam", package="Rsamtools")
+test_bam_file <- 'CHIP-seq.bam'
+#bam to sam
+dest <- tempfile()
+test_sam_file <- asSam(file = test_bam_file, destination = dest)
+#sam to bam
+bam_file_name <- asBam(file = test_sam_file, destination = dest)
+#delete the files just generated.
+dir(dirname(dest))
+unlink(c(test_sam_file, bam_file_name, paste0(bam_file_name, ".bai")))
+#sort the bam by position
+srt_bam_file_1 <- sortBam(file = test_bam_file, destination = paste0(dest, "1"))
+#sort the bam by name
+srt_bam_file_2 <- sortBam(file = test_bam_file, destination = paste0(dest, "2"), byQname=TRUE)
+#index the bam
+indexBam(srt_bam_file_1)
+tryCatch(indexBam(srt_bam_file_2), error=function(.e) print(.e)) ## will output an error
+#merge bams
+merged_bam_file <- mergeBam(c(srt_bam_file_1, srt_bam_file_2), destination = paste0(dest, ".merged.bam"))
+#idxstats
+idxstatsBam(srt_bam_file_1)
+#count
+countBam(srt_bam_file_1)
+countBam(merged_bam_file)
+#read in bam file
+res <- scanBam(test_bam_file)[[1]] #always list of lists
+names(res)
+
+#fileter bam
+filter <- FilterRules(list(MinWidth = function(x) width(x$seq) > 35))
+res <- scanBam(test_bam_file, filter=filter)[[1]]
+sapply(res, head)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
